@@ -1,5 +1,5 @@
 # Offset
-> Offset is a joke language with the philosophy of creating an esoteric programming language that achieve Turing Completeness via rewriting addresses.
+> Offset is a joke language with the philosophy of creating an esoteric programming language that achieves Turing Completeness via rewriting addresses.
 
 ### Overview
 * The language operate in an unbounded array of cells. 

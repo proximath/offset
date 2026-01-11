@@ -30,9 +30,9 @@ The language recognizes several key symbols:
 Other symbols are treated as comments. The interpreter will skip them but they still occupy an address.
 
 ### Example
-XOR-ing a single bit.
+Negating a single bit.
 ```
-24$32>25=99< 'THE XOR OF (1) IS ( )' 2=10$38<      10 END OF CODE | 
+29$37>30=99< 'THE NEGATION OF (1) IS ( )' 2=10$43<      10 END OF CODE | 
 ```
 
 ### Problem

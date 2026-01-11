@@ -2,7 +2,7 @@
 > Offset is a joke language with the philosophy of creating an esoteric programming language that achieves Turing Completeness via rewriting addresses.
 
 ### Overview
-* The language operate in an unbounded array of cells. 
+* You have an unbounded array of cells. 
 * Each cell contains a symbol that is a valid ascii character. 
 * Each cell has its corresponding address, starting from 0. 
 * You have a pointer (`ip`), initially pointing to address 0. 

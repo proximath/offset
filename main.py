@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-code = "24$32>25=99< 'THE XOR OF (1) IS ( )' 2=10$38<      10 END OF CODE | "
+code = "29$37>30=99< 'THE NEGATION OF (1) IS ( )' 2=10$43<      10 END OF CODE | "
 tape = defaultdict(lambda: '0')
 for i, c in enumerate(code):
     tape[i] = c
@@ -19,7 +19,6 @@ while step < MAX_STEP:
         print(tape.get(i, '0'), end="")
         if i == ip:
             print(']', end="")
-
     print()
     print()
     step += 1
